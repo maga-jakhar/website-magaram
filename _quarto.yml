@@ -1,0 +1,25 @@
+
+project: 
+  type: website
+  preview: 
+    browser: true
+    
+website: 
+  title: "Magaram"
+  navbar: 
+   left: 
+    - text: "home"
+      href: index.qmd
+    - text: "about"
+      href: about.qmd
+    - text: "publication"
+      href: publication.qmd
+    - text: "project"
+      href: project.qmd
+      
+format:
+  html:
+    theme: cosmo
+    fontcolor: "#a83240"
+    
+  

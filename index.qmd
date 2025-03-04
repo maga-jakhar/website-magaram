@@ -1,0 +1,25 @@
+---
+title: "Magaram"
+subtitle: "Master's student at Jawaharlal Nehru Univeristy"
+image: images/magaram.jpg
+format: html
+about: 
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/sara-institute
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ajay-kumar-koli/
+    - icon: twitter
+      text: Twitter
+      href: https://www.linkedin.com/in/ajay-kumar-koli/
+---
+
+Hello world! my self Magaram, a student and researcher in political studies, currently affiliated with the masters at the Centre for Political Studies at Jawaharlal Nehru University, New Delhi. With a strong academic and field research background, he has served as a Field researcher at Lokniti-CSDS, contributing to empirical political research during the Delhi election 2025 
+
+Passionate about social service and policy research, Magraj is actively involved in the National Service Scheme (NSS) and has a keen interest in public policy analysis, governance, and grassroots activism. He has also pursued studies at Vardhman Mahaveer Open University (VMOU), Kota, further broadening his academic exposure.
+Beyond academia, he is an anchor and communicator, effectively engaging in discourse on political and social issues.
+Driven by a passion for research, public service, and policy-making, Magraj continues to explore new opportunities to contribute meaningfully to academia and soceties
+
