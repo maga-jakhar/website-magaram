@@ -6,20 +6,32 @@ project:
     
 website: 
   title: "Magaram"
-  navbar: 
-   left: 
-    - text: "home"
-      href: index.qmd
-    - text: "about"
-      href: about.qmd
-    - text: "publication"
-      href: publication.qmd
-    - text: "project"
-      href: project.qmd
-      
+  site-url: "https://magaram-jakhar.netlify.app/"
+  description: meet with an emrgeing anchor
+  navbar:
+    left:  
+        - text: "Home"
+          href: index.qmd
+        - text: "About"
+          href: about.qmd
+    tools:
+        - icon: github
+          href: https://github.com/maga-jakhar
+        - icon: linkedin
+          href: https://www.linkedin.com/in/jakhar1/
+        - icon: twitter
+          href: https://x.com/i/flow/login?redirect_after_login=%2Fjakhar_jakhar1 
+
+  page-footer:
+    left: "Copyright Magaram"
+    center: "Made with ❤️"
+    right: "Supported by [SARA](https://sara-course-quarto.netlify.app/)"
+
 format:
   html:
-    theme: cosmo
-    fontcolor: "#a83240"
+    theme: cosmos
+    
+    
+
     
   

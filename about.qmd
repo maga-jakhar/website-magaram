@@ -1,5 +1,9 @@
 ---
 title: "about"
-format: html
----
+format:
+  html:
+    theme: cosmo
+    css: styles.css
 
+
+---
