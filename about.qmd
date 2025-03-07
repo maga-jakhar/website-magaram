@@ -1,9 +1,8 @@
 ---
 title: "about"
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-
-
+format: html
+ 
+  
 ---
+As political science student and researcher I am keen to learn more about complex aspects of the world and solve them, I have depth experience in field research and methodology. I have worked with Lokniti [csds](https://en.wikipedia.org/wiki/Centre_for_the_Study_of_Developing_Societies) (Centre For the Study Of Developing Societies) as a field researcher in the Delhi Election in which I conducted a survey in-person interviews of voters and documented them, Passionate about social service and policy research, I am actively involved in the National Service Scheme [NSS](https://nss.gov.in/) and has a keen interest in public policy analysis, governance, and grassroots activism. He has also pursued studies at Vardhman Mahaveer Open University (VMOU), Kota, further broadening his academic exposure. Beyond academia, Magaram is an anchor and communicator, effectively engaging in discourse on political and social issues.
+Driven by a passion for research, public service, and policy-making, Magaram continues to explore new opportunities to contribute meaningfully to academia and society.

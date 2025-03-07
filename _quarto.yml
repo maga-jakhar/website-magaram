@@ -7,31 +7,38 @@ project:
 website: 
   title: "Magaram"
   site-url: "https://magaram-jakhar.netlify.app/"
-  description: meet with an emrgeing anchor
+  description: let's connect 
+  twitter-card: true
   navbar:
     left:  
         - text: "Home"
           href: index.qmd
         - text: "About"
           href: about.qmd
+        - text: "Project"
+          href: project.qmd
+          
     tools:
-        - icon: github
-          href: https://github.com/maga-jakhar
+        
         - icon: linkedin
           href: https://www.linkedin.com/in/jakhar1/
-        - icon: twitter
-          href: https://x.com/i/flow/login?redirect_after_login=%2Fjakhar_jakhar1 
+        - icon: github
+          href: https://github.com/maga-jakhar  
+        - icon: x
+          href: https://x.com/i/flow/login?redirect_after_login=%2Fjakhar_jakhar1
+        - icon: youtube
+          href: https://www.youtube.com/@MagrajJakhar01
 
   page-footer:
-    left: "Copyright Magaram"
+    left: "Copyright Magaram@2025"
     center: "Made with ❤️"
     right: "Supported by [SARA](https://sara-course-quarto.netlify.app/)"
 
 format:
   html:
-    theme: cosmos
-    
-    
-
-    
+    theme: cosmo
+    # css: styles.css
+    # fontcolor: "#273746"
+    # backgroundcolor: "#feb9e7"
+    # linkcolor: "273746"
   
